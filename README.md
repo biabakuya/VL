@@ -59,5 +59,3 @@ Ce projet propose une plateforme numérique pour améliorer la gestion des produ
 
 ---
 
-## Licence
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
